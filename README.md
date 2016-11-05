@@ -10,3 +10,4 @@ A List of My Favorite Laravel Packages
 | [appzcoder/crud-generator](https://packagist.org/packages/appzcoder/crud-generator) | Laravel 5 CRUD Generator | [appzcoder/crud-generator](https://github.com/appzcoder/crud-generator) |
 | [hesto/multi-auth](https://packagist.org/packages/hesto/multi-auth) | Multi Auth for Laravel 5.3 | [hesto/multi-auth](https://github.com/hesto/multi-auth) |
 | [codesleeve/laravel-stapler](https://packagist.org/packages/codesleeve/laravel-stapler) | Easy file upload management for the Laravel Framework. | [codesleeve/laravel-stapler](https://github.com/codesleeve/laravel-stapler) |
+| [tcg/voyager](https://packagist.org/packages/tcg/voyager) | A Laravel Admin Package for The Control Group to make your life easier and steer your project in the right direction | [the-control-group/voyager](https://github.com/the-control-group/voyager) |
