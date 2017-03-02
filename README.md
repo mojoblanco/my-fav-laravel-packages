@@ -11,3 +11,4 @@ A List of My Favorite Laravel Packages
 | [hesto/multi-auth](https://packagist.org/packages/hesto/multi-auth) | Multi Auth for Laravel 5.3 | [hesto/multi-auth](https://github.com/hesto/multi-auth) |
 | [codesleeve/laravel-stapler](https://packagist.org/packages/codesleeve/laravel-stapler) | Easy file upload management for the Laravel Framework. | [codesleeve/laravel-stapler](https://github.com/codesleeve/laravel-stapler) |
 | [tcg/voyager](https://packagist.org/packages/tcg/voyager) | A Laravel Admin Package for The Control Group to make your life easier and steer your project in the right direction | [the-control-group/voyager](https://github.com/the-control-group/voyager) |
+| [UniSharp/laravel-filemanager](https://packagist.org/packages/unisharp/laravel-filemanager) | Laravel file manager/gallery with CKEditor and TinyMCE support. | [UniSharp/laravel-filemanager](https://github.com/UniSharp/laravel-filemanager) |
