@@ -3,8 +3,8 @@
 A List of My Favorite Laravel Packages
 
 
-| Repo | Description |
-|---------|-------------|
+| Repository | Description |
+|------------|-------------|
 | [LaravelCollective/html](https://github.com/LaravelCollective/html) | HTML and Form Builders for the Laravel Framework |
 | [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable) |  Easy creation of slugs for your Eloquent models in Laravel |
 | [appzcoder/crud-generator](https://github.com/appzcoder/crud-generator) | Laravel 5 CRUD Generator |
