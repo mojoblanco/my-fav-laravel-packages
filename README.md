@@ -14,3 +14,4 @@ A List of My Favorite Laravel Packages
 | [UniSharp/laravel-filemanager](https://github.com/UniSharp/laravel-filemanager) | Laravel file manager/gallery with CKEditor and TinyMCE support. |
 | [spatie/laravel-permission](https://github.com/spatie/laravel-permission) | Associate users with roles and permissions |
 | [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) | Laravel Debugbar (Integrates PHP Debug Bar) |
+| [mojoblanco/domainos](https://github.com/mojoblanco/domainos) | A laravel package for allowing or blocking specific email domains |
