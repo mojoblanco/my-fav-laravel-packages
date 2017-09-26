@@ -16,3 +16,4 @@ A List of My Favorite Laravel Packages
 | [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) | Laravel Debugbar (Integrates PHP Debug Bar) |
 | [mojoblanco/domainos](https://github.com/mojoblanco/domainos) | A laravel package for allowing or blocking specific email domains |
 | [laracasts/flash](https://github.com/laracasts/flash) | Easy flash notifications |
+| [svenluijten/artisan-view](https://github.com/svenluijten/artisan-view) | A handful of view-related commands to Artisan |
